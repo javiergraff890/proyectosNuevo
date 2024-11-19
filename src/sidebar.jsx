@@ -2,7 +2,7 @@ import "./sidebar.css"
 import {useState} from 'react'
 
 export default function Sidebar({changeActual}){
-    const [sidebarOpen, setSidebarOpen] = useState(true);
+    const [sidebarOpen, setSidebarOpen] = useState(false);
 
     const changeSidebarStatus = () =>{
         setSidebarOpen(!sidebarOpen)

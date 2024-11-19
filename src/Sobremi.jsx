@@ -9,7 +9,7 @@ export default function SobreMi(){
                     En este sitio iré subiendo proyectos realizados.
                 </div>
                 <div>
-                    Para más información personal consultar en mi <a href="#">Curriculum</a>. 
+                    Para más información personal consultar en mi <a href="https://www.canva.com/design/DAFkffsktDE/xA5fOj0dbdXP0L6XTDcWxw/view?utm_content=DAFkffsktDE&utm_campaign=designshare&utm_medium=link&utm_source=editor">Curriculum</a>. 
                 </div>
 
                 <div>
