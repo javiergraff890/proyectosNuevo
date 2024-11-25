@@ -1,0 +1,8 @@
+Como ejecutar
+
+C:\Dev\proyectosNuevo>npm run dev -- --host
+
+
+buildear
+
+C:\Dev\proyectosNuevo>npm run build
